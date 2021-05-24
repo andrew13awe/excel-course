@@ -7,7 +7,7 @@ Webpack (imports/exports)
 			Dev Server, SourceMaps, Eslint, Not Minified JS & CSS
 		- Prod
 			Minified Code
-Git
+Git //18
 
 	Production
 		2.0.0
